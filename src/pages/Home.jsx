@@ -91,7 +91,7 @@ export default function Home() {
 
           {/* Typing Animated Text */}
           <p className="typing-effect">
-            Artificial Intelligence Engineer | Backend Developer | Tech Explorer
+           AI Engineer  | Backend Developer | Tech Explorer
           </p>
 
           {/* Profession Tags */}
